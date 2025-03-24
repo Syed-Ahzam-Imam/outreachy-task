@@ -28,13 +28,12 @@ npm install
 # Start the development server
 npm run dev
 
-## 🧪 Running Tests
+# 🧪 Running Tests
 Run unit tests using Jest:
 
-```sh
 npm run test
 
-## 📂 Project Structure
+📂 Project Structure
 outreachy-task/
 │-- components/        # Reusable UI components
 │-- pages/             # Next.js pages
@@ -44,6 +43,6 @@ outreachy-task/
 │-- package.json       # Project dependencies
 │-- README.md          # Project documentation
 
-## 📜 License
+# 📜 License
 This project is open-source and available under the MIT License.
 
